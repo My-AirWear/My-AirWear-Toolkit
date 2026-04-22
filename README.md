@@ -2,6 +2,12 @@
 Open toolset for community logging of black carbon (soot) fine and ultrafine particulate air pollution. Toolset consists of AirWear wearables and MyAirWear.ca website. 
 What's in this repo: air quality evaluation scripts, data analysis tools, reproducible research code. 
 
+conceptual tree:
+We Are Air Aware (the project/initiative)
+└── My AirWear (the toolkit / potential company)
+    ├── AirWear (wearable hardware)
+    └── myairwear.ca (community website)
+
 
 ## License
 
